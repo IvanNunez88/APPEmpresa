@@ -1,0 +1,10 @@
+﻿namespace APPEmpresa.ENTITY
+{
+    public class CLIENTE
+    {
+        public string Nombre { get; set; }
+        public string APaterno { get; set; }
+        public string AMaterno { get; set; }
+        public string RFC { get; set; }
+    }
+}
